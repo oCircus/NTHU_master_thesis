@@ -1,2 +1,2 @@
 # NTHU_master_thesis
-Sluggish diffusion and vacancy motion in high entropy alloy
+Simulation of Vacancy Motion and  Diffusion Behavior in Binary to Multi-Component Alloys
